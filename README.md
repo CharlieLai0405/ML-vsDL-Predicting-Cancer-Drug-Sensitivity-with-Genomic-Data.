@@ -1,4 +1,4 @@
-# DL_final
+# ML vs DL : Predicting Cancer Drug Sensitivity with Genomic Data
 
 本報告針對 GDSC (Genomics of Drug Sensitivity in Cancer) 資料集進行深入分析，目標是預測細胞株對抗癌藥物的敏感性指標 LN_IC50。透過將資料集中的基因組特徵、藥物相關資訊以及癌症細胞株屬性整合，我們嘗試建立並比較不同的預測模型，以協助瞭解藥物對細胞株的抑制效果。
 
